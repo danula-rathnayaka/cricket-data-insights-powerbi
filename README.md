@@ -1,1 +1,1 @@
-# amazon-q-neurodash
+# cricket-data-insights-powerbi
